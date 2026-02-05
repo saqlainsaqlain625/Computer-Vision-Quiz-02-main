@@ -74,3 +74,7 @@ Classification: A Dense softmax layer outputs probabilities for 4 classes (1, 5,
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+## Model File Notice
+The trained model file (`.keras`) is large in size, so GitHub does not preview it.
+However, the file is correctly uploaded and can be downloaded using the **Raw / Download** option.
+
