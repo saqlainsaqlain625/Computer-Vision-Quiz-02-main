@@ -29,7 +29,7 @@ This project addresses the challenge of currency recognition using Computer Visi
 Clone the Repository:
 
 ```
-git clone [https://github.com/Muntazir-43/Computer-VIsion-Quiz-02.git](https://github.com/Muntazir-43/Computer-VIsion-Quiz-02.git)
+git clone [https://github.com/saqlainsaqlain625/Computer-VIsion-Quiz-02.git](https://github.com/saqlainsaqlain625/Computer-VIsion-Quiz-02.git)
 cd dollar-bill-detector
 
 ```
@@ -64,9 +64,9 @@ Classification: A Dense softmax layer outputs probabilities for 4 classes (1, 5,
 
 ## 👤 Author Information
 
-**Muntazir Mehdi**
+**Saqlain Mushtaq**
 
-**2022-SE-37**
+**2022-SE-33**
 ---
 
 ## 📜 License
