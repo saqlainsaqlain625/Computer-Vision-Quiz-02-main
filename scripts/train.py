@@ -87,3 +87,4 @@ model.fit(train_data, epochs=5)
 test_loss, accuracy = model.evaluate(test_data)
 print(f"\nFinal Accuracy on Test Set: {accuracy * 100:.2f}%")
 
+   
